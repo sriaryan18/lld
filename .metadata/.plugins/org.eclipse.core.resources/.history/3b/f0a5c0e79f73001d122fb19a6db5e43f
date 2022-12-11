@@ -1,0 +1,9 @@
+package chainOfResponsibilityDesign;
+
+public class DebugLogger {
+
+	public DebugLogger() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

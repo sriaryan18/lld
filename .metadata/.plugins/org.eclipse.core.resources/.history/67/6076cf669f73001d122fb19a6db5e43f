@@ -1,0 +1,9 @@
+package chainOfResponsibilityDesign;
+
+public class InfoLogger {
+
+	public InfoLogger() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

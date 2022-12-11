@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package chainOfResponsibilityDesign;
+
+/**
+ * @author Aryan Shrivastava
+ *
+ */
+public interface Logger {
+
+}
