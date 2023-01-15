@@ -13,6 +13,7 @@ public class Main {
 		System.out.println(pizza.cost());
 		BasePizza newPizza=new Mushroom(new Cheese(new Margherita()));  // wrapping the decorator
 		System.out.println(newPizza.cost());
+		
 
 	}
 
